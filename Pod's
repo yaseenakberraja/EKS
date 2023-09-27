@@ -1,4 +1,4 @@
-    Kubectl run <pod name> --image < name of the image>
+    kubectl run <pod name> --image < name of the image>
     kubectl get pods
     kubectl get po
     kubectl expose pod demo --type=NodePort --port=80 --name=levelup-service
